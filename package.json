@@ -1,0 +1,22 @@
+{
+  "name": "pomelo-npm-package-test",
+  "version": "1.0.0",
+  "description": "My First NPM Pacakge.",
+  "keywords": [
+    "pomelo"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iampomelo/npm-package-test.git"
+  },
+  "author": "pomelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iampomelo/npm-package-test/issues"
+  },
+  "homepage": "https://github.com/iampomelo/npm-package-test#readme"
+}
